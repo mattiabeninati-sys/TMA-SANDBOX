@@ -13,6 +13,12 @@ Features:
 - Scenario Generator
 - Time Compression
 
+To run locally:
+1. unzip the archive
+2. open a terminal inside the folder
+3. run: npx serve .
+4. open the localhost URL
+
 If the local version doesn't work use the online version:
 
 https://mattiabeninati-sys.github.io/TMA-SANDBOX/
